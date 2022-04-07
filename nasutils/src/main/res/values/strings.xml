@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SMB Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="retry">Retry</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="empty_search_result">No results </string>
+    <string name="submit">Submit</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="ok">Ok</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="msg_name">Name : <b>%s</b></string>
+    <string name="msg_email">Email : <b>%s</b></string>
+
+    <string name="title_registration_step_one">Registration</string>
+    <string name="title_registration_step_two">Registration Conti..</string>
+
+    <string name="error_network_server">Server not responding. Try again in a few</string>
+    <string name="error_network">Sorry, we couldn\'t connect to internet</string>
+
+
+    <string name="alert_email_empty">Please enter your email</string>
+    <string name="alert_email_invalid">Please enter a valid email address</string>
+    <string name="alert_password_empty">Please enter your password</string>
+    <string name="alert_logout">Are you sure ?</string>
+
+</resources>

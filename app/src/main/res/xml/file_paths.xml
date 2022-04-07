@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- This is for the path like /data/data/com.....
+    this is getting by getFilesDir()-->
+    <files-path name="IPhoto" path="image/"/>
+    <files-path name="IDocument" path="document/"/>
+    <files-path name="IAudio" path="audio/"/>
+    <files-path name="IVideo" path="video/"/>
+    <!-- This is for the path like /storage/emulated/0/Android/data/com.....
+    this is getting by getExternalFilesDir(null)-->
+    <external-files-path name="EPhoto" path="image/"/>
+    <external-files-path name="EDocument" path="document/"/>
+    <external-files-path name="EAudio" path="audio/"/>
+    <external-files-path name="EVideo" path="video/"/>
+    <!-- This is for the path like /storage/emulated/0/....
+    this is getting by Environment.getExternalStorageDirectory()-->
+    <external-path name="EXPhoto" path="image/"/>
+    <external-path name="EXDocument" path="document/"/>
+    <external-path name="EXAudio" path="audio/"/>
+    <external-path name="EXVideo" path="video/"/>
+    <external-path name="external_files" path="."/>
+</paths>

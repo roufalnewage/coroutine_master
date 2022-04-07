@@ -1,0 +1,3 @@
+include ':app', ':cropper1', ':imagepicker1', ':nasutils'
+project(':cropper1').projectDir = new File('cropper')
+project(':imagepicker1').projectDir = new File('imagepicker')
